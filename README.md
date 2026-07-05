@@ -92,6 +92,6 @@ The dataset includes:
 
 **I Gusti Ayu Mirah Dyana Retta**
 
-Data Science Student | Mathematics Tutor | Education Data Analytics Enthusiast
+Data Science Student | Mathematics Tutor at CountMe | Education Data Analytics Enthusiast
 
 📧 mirahdyana123@gmail.com
