@@ -62,11 +62,35 @@ The dataset includes:
 
 ## Visualizations
 
-- Distribution of Post-Test Scores
-- Attendance Analysis
-- Student Distribution by Grade
-- Top 10 Student Improvements
-- Average Score Progress
+## 📊 Dashboard Preview
+
+### 📈 Distribution of Post-Test Scores
+
+![Distribution of Scores](Distribusi Nilai.png)
+
+---
+
+### 📚 Student Distribution by Grade
+
+![Grade Distribution](Distribusi Kelas.png)
+
+---
+
+### Attendance Analysis
+
+![Attendance](Kehadiran.png)
+
+---
+
+### 📊 Average Score Progress
+
+![Score Comparison](Perbandingan Nilai.png)
+
+---
+
+### 🏆 Top 10 Student Improvements
+
+![Top 10](Top 10 Improvement.png)
 
 ---
 
