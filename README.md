@@ -1,5 +1,11 @@
 # 📊CountMe Learning Analytics
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Excel](https://img.shields.io/badge/Dataset-Excel-green?logo=microsoft-excel)
+![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab)
 
+Student performance analysis using Python to evaluate learning outcomes in the CountMe tutoring program.
 ## Student Performance Analysis Using Python
 
 ### Overview
